@@ -45,7 +45,7 @@ const products = await client.products.list({
 
 ## 📚 Documentation
 
-For detailed documentation, visit [docs.shoracloud.com](https://docs.shora.cloud)
+For detailed documentation, visit [docs.shora.cloud](https://docs.shora.cloud)
 
 ## 🤝 Contributing
 
