@@ -45,7 +45,7 @@ const products = await client.products.list({
 
 ## 📚 Documentation
 
-For detailed documentation, visit [docs.shoracloud.com](https://docs.shoracloud.com)
+For detailed documentation, visit [docs.shoracloud.com](https://docs.shora.cloud)
 
 ## 🤝 Contributing
 
@@ -63,10 +63,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌟 Support
 
-- 📧 Email: support@shoracloud.com
+- 📧 Email: support@shora.cloud
 - 💬 Discord: [Join our community](https://discord.gg/shoracloud)
 - 🐦 Twitter: [@ShoraCloud](https://twitter.com/shoracloud)
 
 ## 🏢 Company
 
-Shora Cloud is developed by Shora Technology Inc.
+Shora Cloud is developed by Svenca LTD
